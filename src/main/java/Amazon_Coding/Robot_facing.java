@@ -153,6 +153,8 @@ return   position[0] == 0 && position [1] == 0;
         System.out.println(salary.stream().filter(n -> n < 10_000).collect(Collectors.toList()));
 
 
+        List<Integer> newState = new ArrayList<>();
+
     }
 
 
