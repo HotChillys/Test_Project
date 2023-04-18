@@ -1,4 +1,4 @@
-package com.ui.ui_utils;
+package com.zipcode.test.utils;
 
 import org.junit.Assert;
 import org.openqa.selenium.*;

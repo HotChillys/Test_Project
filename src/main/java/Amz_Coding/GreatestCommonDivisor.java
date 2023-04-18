@@ -1,8 +1,6 @@
-package Amazon_Coding;
+package Amz_Coding;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class GreatestCommonDivisor {
 

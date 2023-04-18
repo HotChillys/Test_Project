@@ -1,4 +1,4 @@
-package com.ui.ui_utils;
+package com.zipcode.test.utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;

@@ -1,5 +1,6 @@
-package com.ui.ui_utils;
+package com.zipcode.test.utils;
 
+import com.zipcode.test.utils.ConfigurationReader;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

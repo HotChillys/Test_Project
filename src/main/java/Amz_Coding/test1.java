@@ -1,4 +1,4 @@
-package Amazon_Coding;
+package Amz_Coding;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -57,6 +57,7 @@ public class test1 {
 
         System.out.println(a);
         System.out.println(count);
+
     }
 
 }

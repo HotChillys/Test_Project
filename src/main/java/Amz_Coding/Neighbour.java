@@ -1,4 +1,4 @@
-package Amazon_Coding;
+package Amz_Coding;
 
 import java.util.ArrayList;
 import java.util.List;
